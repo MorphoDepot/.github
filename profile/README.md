@@ -12,9 +12,15 @@ MorphoDepot is an open platform for the collaborative segmentation of 3D specime
 
 Head to **[morphodepot.org](https://morphodepot.org)** to see how it works, browse datasets, and pick your path:
 
-- **Lab / PI** — [join the organization](https://join.morphodepot.org) with your ORCID iD to create archival, citable datasets and manage your lab team. *(Onboarding is in development — not yet open.)*
+- **Lab / PI** — [join the organization](https://join.morphodepot.org) with your ORCID iD to create **organizational** datasets — citable, with a DOI — and manage your lab team. *(Onboarding is in development — not yet open.)*
 - **Student / contributor** — no membership needed. Browse public repositories, claim an issue, and submit segmentations as a pull request straight from the Slicer extension.
-- **Educator** — spin up short-term datasets for classes and workshops.
+- **Educator** — spin up **personal** datasets for classes and workshops.
+
+## 🔍 How it works
+
+[![Publishing an organizational MorphoDepot repository: load the data and describe it in 3D Slicer, stage and iterate while private, request review, get approved and minted a DOI, then go public — after which students open issues, fork and segment, and each release earns a new DOI](https://raw.githubusercontent.com/MorphoDepot/docs/main/images/publishing-workflow.png)](https://raw.githubusercontent.com/MorphoDepot/docs/main/images/publishing-workflow.png)
+
+*Publishing an organizational repository, start to finish. Creating one takes membership — but **contributing to one does not**: anyone can open an issue, fork a public dataset, and send a pull request. That's the cycle along the bottom.*
 
 ## 🔭 Explore
 
